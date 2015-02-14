@@ -1,5 +1,10 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    margin: 50px auto 30px;
+    color: #454545;
+    margin: 30px auto 30px;
     padding: 25px;
+}
+
+a:visited {
+    color: #454545;
 }
